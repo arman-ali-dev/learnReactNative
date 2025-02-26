@@ -10,5 +10,5 @@ React Native CLI gives full control over native code and requires Android Studio
 ## <View/>:
 <View /> is a core component in React Native that works like a div in HTML. It is used to create layouts, group other components, and apply styles like flexbox, padding, and margins.
 
-## <Text/>:
+## '<Text/>':
 <Text /> is a core component in React Native used to display text in the app. It supports styling, nesting, and touch events.
