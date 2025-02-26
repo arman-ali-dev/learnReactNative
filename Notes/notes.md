@@ -4,11 +4,11 @@ React Native is a framework that lets you build mobile apps for Android and iOS 
 ## Expo:
 Expo is an easy-to-use framework for building React Native apps without needing native code setup. It provides built-in APIs and works well for fast development and testing.
 
-## React Native:
+## React Native CLI:
 React Native CLI gives full control over native code and requires Android Studio/Xcode. It’s best for complex apps needing custom native features.
 
-## <View/>:
+## View Component:
 <View /> is a core component in React Native that works like a div in HTML. It is used to create layouts, group other components, and apply styles like flexbox, padding, and margins.
 
-## '<Text/>':
+## Text Component:
 <Text /> is a core component in React Native used to display text in the app. It supports styling, nesting, and touch events.
