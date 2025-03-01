@@ -12,3 +12,6 @@ React Native CLI gives full control over native code and requires Android Studio
 
 ## Text Component:
 <Text /> is a core component in React Native used to display text in the app. It supports styling, nesting, and touch events.
+
+## StyleSheet.create:
+StyleSheet.create in React Native is a method to define and optimize styles for better performance. It precompiles styles and helps catch errors early.
