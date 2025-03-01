@@ -15,3 +15,9 @@ React Native CLI gives full control over native code and requires Android Studio
 
 ## StyleSheet.create:
 StyleSheet.create in React Native is a method to define and optimize styles for better performance. It precompiles styles and helps catch errors early.
+
+## FlatList Component:
+FlatList is a React Native component used to display a scrollable list of items efficiently. It only renders items that are visible on the screen, making it fast and memory-friendly. You just need to provide data, a function to show each item, and a unique key for every item.
+
+## Pressable Component:
+Pressable is a React Native component that makes any element clickable or touchable. It handles different touch events like tap, long press, and press-in for better user interaction.
