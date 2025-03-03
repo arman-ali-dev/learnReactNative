@@ -21,3 +21,6 @@ FlatList is a React Native component used to display a scrollable list of items 
 
 ## Pressable Component:
 Pressable is a React Native component that makes any element clickable or touchable. It handles different touch events like tap, long press, and press-in for better user interaction.
+
+## useRoute Hook: 
+useRoute is a hook from React Navigation that gives information about the current screen, like its name and parameters.
