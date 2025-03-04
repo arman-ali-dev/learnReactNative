@@ -24,3 +24,6 @@ Pressable is a React Native component that makes any element clickable or toucha
 
 ## useRoute Hook: 
 useRoute is a hook from React Navigation that gives information about the current screen, like its name and parameters.
+
+## Modal Component:
+Modal Component in React Native is a pop-up that appears over the screen to show important content, like alerts or forms. It blocks interaction with the background until closed. 
